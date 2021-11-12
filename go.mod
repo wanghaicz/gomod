@@ -1,4 +1,4 @@
-module gitee.com/haiiiiiii/gomod
+module github.com/wanghaicz/gomod
 
 go 1.16
 
